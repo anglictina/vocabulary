@@ -118,5 +118,35 @@
 		"en": "hence",
 		"cs": "proto/z toho důvodu",
 		"learned": false
+	},
+	{
+		"en": "tackle",
+		"cs": "rešit/vypořádat se",
+		"learned": false
+	},
+	{
+		"en": "embarrassing",
+		"cs": "trapný",
+		"learned": false
+	},
+	{
+		"en": "superficial",
+		"cs": "povrchní(znalost)",
+		"learned": false
+	},
+	{
+		"en": "reluctant",
+		"cs": "neochotný",
+		"learned": false
+	},
+	{
+		"en": "mortgage",
+		"cs": "hypotéka",
+		"learned": false
+	},
+	{
+		"en": "addendum",
+		"cs": "dodatek",
+		"learned": false
 	}
 ]
