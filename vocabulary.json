@@ -148,5 +148,10 @@
 		"en": "addendum",
 		"cs": "dodatek",
 		"learned": false
+	},
+	{
+		"en": "within",
+		"cs": "v rámci",
+		"learned": false
 	}
 ]
