@@ -153,5 +153,25 @@
 		"en": "within",
 		"cs": "v rámci",
 		"learned": false
+	},
+	{
+		"en": "desire",
+		"cs": "touha",
+		"learned": false
+	},
+	{
+		"en": "grasp",
+		"cs": "pochopit/uchopit",
+		"learned": false
+	},
+	{
+		"en": "manner",
+		"cs": "způsob",
+		"learned": false
+	},
+	{
+		"en": "strive",
+		"cs": "usilovat",
+		"learned": false
 	}
 ]
