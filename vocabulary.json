@@ -173,5 +173,20 @@
 		"en": "strive",
 		"cs": "usilovat",
 		"learned": false
+	},
+	{
+		"en": "flicker",
+		"cs": "blikat",
+		"learned": false
+	},
+	{
+		"en": "capability",
+		"cs": "schopnost",
+		"learned": false
+	},
+	{
+		"en": "vastly",
+		"cs": "obrovsky/nesmírně",
+		"learned": false
 	}
 ]
